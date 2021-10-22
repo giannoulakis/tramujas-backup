@@ -44,3 +44,4 @@ CHANGELOG.md export-ignore
 *.html filter=lfs diff=lfs merge=lfs -text
 *.swf filter=lfs diff=lfs merge=lfs -text
 *.ufm filter=lfs diff=lfs merge=lfs -text
+/.docker/Dockerfile filter=lfs diff=lfs merge=lfs -text
