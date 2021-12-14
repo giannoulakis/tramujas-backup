@@ -178,3 +178,8 @@ CHANGELOG.md export-ignore
 /vendor/vlucas/phpdotenv/LICENSE filter=lfs diff=lfs merge=lfs -text
 *.yaml filter=lfs diff=lfs merge=lfs -text
 /vendor/webmozart/assert/LICENSE filter=lfs diff=lfs merge=lfs -text
+/vendor/composer/package-versions-deprecated/LICENSE filter=lfs diff=lfs merge=lfs -text
+/vendor/doctrine/cache/LICENSE filter=lfs diff=lfs merge=lfs -text
+/vendor/doctrine/dbal/LICENSE filter=lfs diff=lfs merge=lfs -text
+/vendor/doctrine/dbal/bin/doctrine-dbal filter=lfs diff=lfs merge=lfs -text
+/vendor/doctrine/event-manager/LICENSE filter=lfs diff=lfs merge=lfs -text
