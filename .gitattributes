@@ -183,3 +183,6 @@ CHANGELOG.md export-ignore
 /vendor/doctrine/dbal/LICENSE filter=lfs diff=lfs merge=lfs -text
 /vendor/doctrine/dbal/bin/doctrine-dbal filter=lfs diff=lfs merge=lfs -text
 /vendor/doctrine/event-manager/LICENSE filter=lfs diff=lfs merge=lfs -text
+/vendor/sabberworm/php-css-parser/LICENSE filter=lfs diff=lfs merge=lfs -text
+*.bash filter=lfs diff=lfs merge=lfs -text
+/vendor/symfony/error-handler/Resources/bin/patch-type-declarations filter=lfs diff=lfs merge=lfs -text
