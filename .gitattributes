@@ -187,3 +187,4 @@ CHANGELOG.md export-ignore
 *.bash filter=lfs diff=lfs merge=lfs -text
 /vendor/symfony/error-handler/Resources/bin/patch-type-declarations filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+/ideatos/.docker/Dockerfile filter=lfs diff=lfs merge=lfs -text
