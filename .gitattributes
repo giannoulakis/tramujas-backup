@@ -201,3 +201,5 @@ CHANGELOG.md export-ignore
 /vendor/bin/psysh filter=lfs diff=lfs merge=lfs -text
 /vendor/bin/var-dump-server filter=lfs diff=lfs merge=lfs -text
 /vendor/league/commonmark/bin/commonmark filter=lfs diff=lfs merge=lfs -text
+/docker-conf/Dockerfile filter=lfs diff=lfs merge=lfs -text
+*.sql filter=lfs diff=lfs merge=lfs -text
