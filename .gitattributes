@@ -213,3 +213,4 @@ CHANGELOG.md export-ignore
 /ideatos/.docker/Dockerfile_alpine filter=lfs diff=lfs merge=lfs -text
 /ideatos/.docker/Dockerfile_funcionou filter=lfs diff=lfs merge=lfs -text
 *.save filter=lfs diff=lfs merge=lfs -text
+*.iml filter=lfs diff=lfs merge=lfs -text
